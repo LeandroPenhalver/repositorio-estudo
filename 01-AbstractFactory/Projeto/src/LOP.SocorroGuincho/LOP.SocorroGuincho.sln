@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{952227F6-9560-4C30-8325-F5FD4BFFA9A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{8A63F82E-F05A-49B3-9B49-2A82D6A21841}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{83A9B95C-7A50-4D8C-A8EF-3A3A01EB6833}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Service", "1-Service", "{F9508BD0-BEB4-421E-90FC-031A5A037A6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{163AA89E-507A-4E67-9E44-18E68781DB47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LOP.GuinchoSocorro.Domain", "LOP.GuinchoSocorro.Domain\LOP.GuinchoSocorro.Domain.csproj", "{D8391FFA-6B34-4B7C-ABA7-C96251E4F32F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOP.SocorroGuincho.Service", "LOP.SocorroGuincho.Service\LOP.SocorroGuincho.Service.csproj", "{74003E72-8B33-4242-AE34-5C34940A3A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8391FFA-6B34-4B7C-ABA7-C96251E4F32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8391FFA-6B34-4B7C-ABA7-C96251E4F32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8391FFA-6B34-4B7C-ABA7-C96251E4F32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8391FFA-6B34-4B7C-ABA7-C96251E4F32F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74003E72-8B33-4242-AE34-5C34940A3A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74003E72-8B33-4242-AE34-5C34940A3A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74003E72-8B33-4242-AE34-5C34940A3A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74003E72-8B33-4242-AE34-5C34940A3A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{83A9B95C-7A50-4D8C-A8EF-3A3A01EB6833} = {952227F6-9560-4C30-8325-F5FD4BFFA9A5}
+		{F9508BD0-BEB4-421E-90FC-031A5A037A6E} = {952227F6-9560-4C30-8325-F5FD4BFFA9A5}
+		{163AA89E-507A-4E67-9E44-18E68781DB47} = {83A9B95C-7A50-4D8C-A8EF-3A3A01EB6833}
+		{D8391FFA-6B34-4B7C-ABA7-C96251E4F32F} = {163AA89E-507A-4E67-9E44-18E68781DB47}
+		{74003E72-8B33-4242-AE34-5C34940A3A33} = {F9508BD0-BEB4-421E-90FC-031A5A037A6E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7FBB61C-8350-4F02-BA6D-EE2E14648CA1}
+	EndGlobalSection
+EndGlobal

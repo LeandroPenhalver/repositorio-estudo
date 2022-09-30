@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+wCdZxIKxF8g8EqplWT0WdMf9m3YAEY/XwraqfLIai71+BQtMjQoGBGQI1u3CEiRYfjQaSZQlntPjvan1kMbtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Desktop\\Desafio\\repositorio-estudo\\LeandroPenhalver\\05-Curso\\Eventos.IO\\src\\ConsoleTesting\\ConsoleTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}

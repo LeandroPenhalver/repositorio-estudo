@@ -1,0 +1,12 @@
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\02-AbstractFactory\Projeto\src\Exemplo.DoFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\02-AbstractFactory\Projeto\src\Exemplo.DoFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\02-AbstractFactory\Projeto\src\Exemplo.DoFactory\AbstractFactory\bin\Debug\net5.0\ref\AbstractFactory.dll
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\02-AbstractFactory\Projeto\src\Exemplo.DoFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\02-AbstractFactory\Projeto\src\Exemplo.DoFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\02-AbstractFactory\Projeto\src\Exemplo.DoFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\02-AbstractFactory\Projeto\src\Exemplo.DoFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\02-AbstractFactory\Projeto\src\Exemplo.DoFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\02-AbstractFactory\Projeto\src\Exemplo.DoFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\02-AbstractFactory\Projeto\src\Exemplo.DoFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\02-AbstractFactory\Projeto\src\Exemplo.DoFactory\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\02-AbstractFactory\Projeto\src\Exemplo.DoFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb

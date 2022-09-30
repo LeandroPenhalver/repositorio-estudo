@@ -1,0 +1,12 @@
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\03-FactoryMethod\src\LOP.Logistics\LOP.Logistics.Domain\bin\Debug\net5.0\LOP.Logistics.Domain.deps.json
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\03-FactoryMethod\src\LOP.Logistics\LOP.Logistics.Domain\bin\Debug\net5.0\LOP.Logistics.Domain.dll
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\03-FactoryMethod\src\LOP.Logistics\LOP.Logistics.Domain\bin\Debug\net5.0\LOP.Logistics.Domain.pdb
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\03-FactoryMethod\src\LOP.Logistics\LOP.Logistics.Domain\obj\Debug\net5.0\LOP.Logistics.Domain.csproj.AssemblyReference.cache
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\03-FactoryMethod\src\LOP.Logistics\LOP.Logistics.Domain\obj\Debug\net5.0\LOP.Logistics.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\03-FactoryMethod\src\LOP.Logistics\LOP.Logistics.Domain\obj\Debug\net5.0\LOP.Logistics.Domain.AssemblyInfoInputs.cache
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\03-FactoryMethod\src\LOP.Logistics\LOP.Logistics.Domain\obj\Debug\net5.0\LOP.Logistics.Domain.AssemblyInfo.cs
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\03-FactoryMethod\src\LOP.Logistics\LOP.Logistics.Domain\obj\Debug\net5.0\LOP.Logistics.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\03-FactoryMethod\src\LOP.Logistics\LOP.Logistics.Domain\obj\Debug\net5.0\LOP.Logistics.Domain.dll
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\03-FactoryMethod\src\LOP.Logistics\LOP.Logistics.Domain\obj\Debug\net5.0\refint\LOP.Logistics.Domain.dll
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\03-FactoryMethod\src\LOP.Logistics\LOP.Logistics.Domain\obj\Debug\net5.0\LOP.Logistics.Domain.pdb
+C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\03-FactoryMethod\src\LOP.Logistics\LOP.Logistics.Domain\obj\Debug\net5.0\ref\LOP.Logistics.Domain.dll

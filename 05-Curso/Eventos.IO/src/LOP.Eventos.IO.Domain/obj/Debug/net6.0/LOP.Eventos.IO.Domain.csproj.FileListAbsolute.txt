@@ -1,0 +1,15 @@
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\bin\Debug\net6.0\LOP.Eventos.IO.Domain.deps.json
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\bin\Debug\net6.0\LOP.Eventos.IO.Domain.dll
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\bin\Debug\net6.0\LOP.Eventos.IO.Domain.pdb
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\bin\Debug\net6.0\LOP.Eventos.IO.Domain.Core.dll
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\bin\Debug\net6.0\LOP.Eventos.IO.Domain.Core.pdb
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\obj\Debug\net6.0\LOP.Eventos.IO.Domain.csproj.AssemblyReference.cache
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\obj\Debug\net6.0\LOP.Eventos.IO.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\obj\Debug\net6.0\LOP.Eventos.IO.Domain.AssemblyInfoInputs.cache
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\obj\Debug\net6.0\LOP.Eventos.IO.Domain.AssemblyInfo.cs
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\obj\Debug\net6.0\LOP.Eventos.IO.Domain.csproj.CoreCompileInputs.cache
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\obj\Debug\net6.0\LOP.Eventos.IO.Domain.csproj.CopyComplete
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\obj\Debug\net6.0\LOP.Eventos.IO.Domain.dll
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\obj\Debug\net6.0\refint\LOP.Eventos.IO.Domain.dll
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\obj\Debug\net6.0\LOP.Eventos.IO.Domain.pdb
+C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain\obj\Debug\net6.0\ref\LOP.Eventos.IO.Domain.dll

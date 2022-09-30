@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Service", "01 - Service", "{373B89BD-0611-4097-A558-E4211EF6ABD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Domain", "02 - Domain", "{728620EC-756D-4979-B440-4761246A3663}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Infra", "03 - Infra", "{76557600-380C-433F-AADE-5C9ADC7BB8C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOP.Calculadora.Domain", "LOP.Calculadora.Domain\LOP.Calculadora.Domain.csproj", "{9C57DE46-E5EE-4592-838B-F644D122826F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C57DE46-E5EE-4592-838B-F644D122826F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C57DE46-E5EE-4592-838B-F644D122826F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C57DE46-E5EE-4592-838B-F644D122826F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C57DE46-E5EE-4592-838B-F644D122826F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9C57DE46-E5EE-4592-838B-F644D122826F} = {728620EC-756D-4979-B440-4761246A3663}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {987A72B3-862A-4D40-B803-E249ECFBC1E7}
+	EndGlobalSection
+EndGlobal

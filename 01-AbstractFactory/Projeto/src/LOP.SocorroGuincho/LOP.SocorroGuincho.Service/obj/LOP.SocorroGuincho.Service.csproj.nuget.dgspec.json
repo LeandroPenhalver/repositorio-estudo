@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\leandro.penhalver\\Desktop\\Nova pasta\\repositorio-estudo\\LeandroPenhalver\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\leandro.penhalver\\Desktop\\Nova pasta\\repositorio-estudo\\LeandroPenhalver\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leandro.penhalver\\Desktop\\Nova pasta\\repositorio-estudo\\LeandroPenhalver\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj",
+        "projectName": "LOP.GuinchoSocorro.Domain",
+        "projectPath": "C:\\Users\\leandro.penhalver\\Desktop\\Nova pasta\\repositorio-estudo\\LeandroPenhalver\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj",
+        "packagesPath": "C:\\Users\\leandro.penhalver\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leandro.penhalver\\Desktop\\Nova pasta\\repositorio-estudo\\LeandroPenhalver\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leandro.penhalver\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/topdownprojetos/_packaging/artefacts-projects/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leandro.penhalver\\Desktop\\Nova pasta\\repositorio-estudo\\LeandroPenhalver\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leandro.penhalver\\Desktop\\Nova pasta\\repositorio-estudo\\LeandroPenhalver\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj",
+        "projectName": "LOP.SocorroGuincho.Service",
+        "projectPath": "C:\\Users\\leandro.penhalver\\Desktop\\Nova pasta\\repositorio-estudo\\LeandroPenhalver\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj",
+        "packagesPath": "C:\\Users\\leandro.penhalver\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leandro.penhalver\\Desktop\\Nova pasta\\repositorio-estudo\\LeandroPenhalver\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leandro.penhalver\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/topdownprojetos/_packaging/artefacts-projects/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\leandro.penhalver\\Desktop\\Nova pasta\\repositorio-estudo\\LeandroPenhalver\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj": {
+                "projectPath": "C:\\Users\\leandro.penhalver\\Desktop\\Nova pasta\\repositorio-estudo\\LeandroPenhalver\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

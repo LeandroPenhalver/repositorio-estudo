@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bTiUe6R+qiMLR2c77QeRSq13YEeGqxrzsU0itVEiBXSg3phFv2ayUTfODCYerosUqMxq6VA7Xry8mw1T2rCClA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Desktop\\Desafio\\repositorio-estudo\\LeandroPenhalver\\05-Curso\\Eventos.IO\\src\\LOP.Eventos.IO.Domain.Core\\LOP.Eventos.IO.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}

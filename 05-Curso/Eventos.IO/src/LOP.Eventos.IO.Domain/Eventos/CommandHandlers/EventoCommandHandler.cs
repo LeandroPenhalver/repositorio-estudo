@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 namespace LOP.Eventos.IO.Domain.Eventos.CommandHandlers
 {
     public class EventoCommandHandler :
-        CommandHandler
+        CommandHandler,
         IHandler<RegistrarEventoCommand>,
         IHandler<AtualizarEventoCommand>,
         IHandler<RemoverEventoCommand>
@@ -41,6 +41,11 @@ namespace LOP.Eventos.IO.Domain.Eventos.CommandHandlers
             // Validações de negócio para saber se irá persistir os dados no banco.
 
             _repository.Add(evento);
+
+            if (Commit())
+            {
+
+            }
         }
 
         public void Handle(RemoverEventoCommand message)

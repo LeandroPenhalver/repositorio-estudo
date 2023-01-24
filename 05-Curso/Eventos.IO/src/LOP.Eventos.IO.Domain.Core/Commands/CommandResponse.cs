@@ -9,8 +9,8 @@ namespace LOP.Eventos.IO.Domain.Core.Commands
 {
     public class CommandResponse
     {
-        public static CommandResponse Ok = new CommandResponse { Successs = true };
-        public static CommandResponse Fail = new CommandResponse { Successs = false };
+        public static CommandResponse Ok = new CommandResponse(true);
+        public static CommandResponse Fail = new CommandResponse(false);
 
         public CommandResponse(bool successs = false)
         {

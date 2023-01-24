@@ -10,3 +10,15 @@ C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.
 C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\obj\Debug\net6.0\refint\LOP.Eventos.IO.Domain.Core.dll
 C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\obj\Debug\net6.0\LOP.Eventos.IO.Domain.Core.pdb
 C:\temp\repositorio-estudo\LeandroPenhalver\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\obj\Debug\net6.0\ref\LOP.Eventos.IO.Domain.Core.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\bin\Debug\net6.0\LOP.Eventos.IO.Domain.Core.deps.json
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\bin\Debug\net6.0\LOP.Eventos.IO.Domain.Core.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\bin\Debug\net6.0\LOP.Eventos.IO.Domain.Core.pdb
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\obj\Debug\net6.0\LOP.Eventos.IO.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\obj\Debug\net6.0\LOP.Eventos.IO.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\obj\Debug\net6.0\LOP.Eventos.IO.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\obj\Debug\net6.0\LOP.Eventos.IO.Domain.Core.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\obj\Debug\net6.0\LOP.Eventos.IO.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\obj\Debug\net6.0\LOP.Eventos.IO.Domain.Core.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\obj\Debug\net6.0\refint\LOP.Eventos.IO.Domain.Core.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\obj\Debug\net6.0\LOP.Eventos.IO.Domain.Core.pdb
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\05-Curso\Eventos.IO\src\LOP.Eventos.IO.Domain.Core\obj\Debug\net6.0\ref\LOP.Eventos.IO.Domain.Core.dll

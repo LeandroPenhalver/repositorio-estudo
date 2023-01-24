@@ -14,4 +14,8 @@
     <ProjectReference Include="..\LOP.Eventos.IO.Domain.Core\LOP.Eventos.IO.Domain.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Eventos\EventHandlers\" />
+  </ItemGroup>
+
 </Project>

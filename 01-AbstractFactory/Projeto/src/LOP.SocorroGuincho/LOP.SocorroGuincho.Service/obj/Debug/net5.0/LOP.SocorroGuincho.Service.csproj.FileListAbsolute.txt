@@ -29,3 +29,34 @@ C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalve
 C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.pdb
 C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.genruntimeconfig.cache
 C:\Users\leandro.penhalver\Desktop\Nova pasta\repositorio-estudo\LeandroPenhalver\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\ref\LOP.SocorroGuincho.Service.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\appsettings.json
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\LOP.SocorroGuincho.Service.exe
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\LOP.SocorroGuincho.Service.deps.json
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\LOP.SocorroGuincho.Service.runtimeconfig.json
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\LOP.SocorroGuincho.Service.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\LOP.SocorroGuincho.Service.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\LOP.SocorroGuincho.Service.pdb
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\LOP.GuinchoSocorro.Domain.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\bin\Debug\net5.0\LOP.GuinchoSocorro.Domain.pdb
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\scopedcss\bundle\LOP.SocorroGuincho.Service.styles.css
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\staticwebassets\LOP.SocorroGuincho.Service.StaticWebAssets.Manifest.cache
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.RazorTargetAssemblyInfo.cache
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.csproj.CopyComplete
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\refint\LOP.SocorroGuincho.Service.dll
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.pdb
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\LOP.SocorroGuincho.Service.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Desktop\repositorio-estudo\01-AbstractFactory\Projeto\src\LOP.SocorroGuincho\LOP.SocorroGuincho.Service\obj\Debug\net5.0\ref\LOP.SocorroGuincho.Service.dll

@@ -16,7 +16,7 @@ namespace LOP.Eventos.IO.Domain.CommandHandlers
         {
             _unitOfWork = unitOfWork;
         }
-
+        
         protected void NotificarValidacoesErro(ValidationResult validationResult)
         {
             foreach (var erro in validationResult.Errors)

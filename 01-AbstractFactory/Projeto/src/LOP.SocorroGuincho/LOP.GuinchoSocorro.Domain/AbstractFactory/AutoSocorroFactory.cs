@@ -7,6 +7,7 @@ namespace LOP.GuinchoSocorro.Domain.AbstractFactory
     /// AbstractFactory
     /// </summary>
     public abstract class AutoSocorroFactory
+
     {
         /// <summary>
         /// Cria uma instância de guincho

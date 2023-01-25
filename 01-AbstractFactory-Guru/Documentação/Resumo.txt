@@ -7,3 +7,8 @@ Pros:
   2 - Facilidade em adicionar uma nova familia na fabrica.
   3 - Com o programa menos acoplado se torna muito mais fácil o teste unitário.
   4 - Conceitos do SOLID aplicados na pratica.
+
+Estudo feito no curso do Eduardo Pires e a leitura do livro Design Patterns
+
+https://desenvolvedor.io/
+https://refactoring.guru/

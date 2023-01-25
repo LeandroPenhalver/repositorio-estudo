@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "snot6ZWy/EuHvdggiylHpTr1DwG6vOWW7TICyLGQcriKFbBbNTKmKoxlt33NDWkRfgZj/2h9Ea3YyH0EaizInQ==",
+  "dgSpecHash": "cCUUcAFEMZD43jt6KxTH/2GEEP428EVhDm93oHZ2qJc9EpS+LQuYhc4dXbfbi3V2T9zvhdpH1uEMmVIG9B/Mcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj",
+  "projectFilePath": "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

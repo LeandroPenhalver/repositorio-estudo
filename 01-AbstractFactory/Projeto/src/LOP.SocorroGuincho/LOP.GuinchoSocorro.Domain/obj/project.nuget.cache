@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rl8FS0s6UP5jHLfWs0ffQd2r4A6GP7beGqI5PRMU5G0Y5Vtp2o/npIH5P/ttoZVPdYxj9ErS6fNqn+sBlvQEtQ==",
+  "dgSpecHash": "Vrj7tgfRRIX9sMNSp0aoTnYfY0EwYk88hFipjT3LA8Posm20aDBb7grT1Jfz5ojU7vvBPh6OrzRJo8j1qFtv2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj",
+  "projectFilePath": "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LOP.LojaOnline.Domain/1.0.0": {
+        "runtime": {
+          "LOP.LojaOnline.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LOP.LojaOnline.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

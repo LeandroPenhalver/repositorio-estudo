@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj": {}
+    "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj": {
+    "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj",
         "projectName": "LOP.GuinchoSocorro.Domain",
-        "projectPath": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj",
+        "projectPath": "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj": {
+    "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj",
+        "projectUniqueName": "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj",
         "projectName": "LOP.SocorroGuincho.Service",
-        "projectPath": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj",
+        "projectPath": "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\obj\\",
+        "outputPath": "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -107,8 +107,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj": {
-                "projectPath": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj"
+              "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj"
               }
             }
           }

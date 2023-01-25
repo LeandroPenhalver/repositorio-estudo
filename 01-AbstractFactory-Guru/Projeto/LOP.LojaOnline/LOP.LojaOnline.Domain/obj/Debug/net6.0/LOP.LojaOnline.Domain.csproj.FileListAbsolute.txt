@@ -1,0 +1,12 @@
+C:\Projetos\repositorio-estudo\01-AbstractFactory-Guru\Projeto\LOP.LojaOnline\LOP.LojaOnline.Domain\bin\Debug\net6.0\LOP.LojaOnline.Domain.deps.json
+C:\Projetos\repositorio-estudo\01-AbstractFactory-Guru\Projeto\LOP.LojaOnline\LOP.LojaOnline.Domain\bin\Debug\net6.0\LOP.LojaOnline.Domain.dll
+C:\Projetos\repositorio-estudo\01-AbstractFactory-Guru\Projeto\LOP.LojaOnline\LOP.LojaOnline.Domain\bin\Debug\net6.0\LOP.LojaOnline.Domain.pdb
+C:\Projetos\repositorio-estudo\01-AbstractFactory-Guru\Projeto\LOP.LojaOnline\LOP.LojaOnline.Domain\obj\Debug\net6.0\LOP.LojaOnline.Domain.csproj.AssemblyReference.cache
+C:\Projetos\repositorio-estudo\01-AbstractFactory-Guru\Projeto\LOP.LojaOnline\LOP.LojaOnline.Domain\obj\Debug\net6.0\LOP.LojaOnline.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\repositorio-estudo\01-AbstractFactory-Guru\Projeto\LOP.LojaOnline\LOP.LojaOnline.Domain\obj\Debug\net6.0\LOP.LojaOnline.Domain.AssemblyInfoInputs.cache
+C:\Projetos\repositorio-estudo\01-AbstractFactory-Guru\Projeto\LOP.LojaOnline\LOP.LojaOnline.Domain\obj\Debug\net6.0\LOP.LojaOnline.Domain.AssemblyInfo.cs
+C:\Projetos\repositorio-estudo\01-AbstractFactory-Guru\Projeto\LOP.LojaOnline\LOP.LojaOnline.Domain\obj\Debug\net6.0\LOP.LojaOnline.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\repositorio-estudo\01-AbstractFactory-Guru\Projeto\LOP.LojaOnline\LOP.LojaOnline.Domain\obj\Debug\net6.0\LOP.LojaOnline.Domain.dll
+C:\Projetos\repositorio-estudo\01-AbstractFactory-Guru\Projeto\LOP.LojaOnline\LOP.LojaOnline.Domain\obj\Debug\net6.0\refint\LOP.LojaOnline.Domain.dll
+C:\Projetos\repositorio-estudo\01-AbstractFactory-Guru\Projeto\LOP.LojaOnline\LOP.LojaOnline.Domain\obj\Debug\net6.0\LOP.LojaOnline.Domain.pdb
+C:\Projetos\repositorio-estudo\01-AbstractFactory-Guru\Projeto\LOP.LojaOnline\LOP.LojaOnline.Domain\obj\Debug\net6.0\ref\LOP.LojaOnline.Domain.dll

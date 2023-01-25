@@ -1,0 +1,9 @@
+No entendimento do padrão abstract factory
+Contras:
+  1 - Aumentou deasticamente a quantidade de objetos dentro do projeto.
+  2 - Com o aumento dos objetos, o projeto se torna mais complexo.
+Pros:
+  1 - O projeto base nunca mudará, mesmo ne for criado novos tipos de fabricas (novos conjuntos de mobilia).
+  2 - Facilidade em adicionar uma nova familia na fabrica.
+  3 - Com o programa menos acoplado se torna muito mais fácil o teste unitário.
+  4 - Conceitos do SOLID aplicados na pratica.

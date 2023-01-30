@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1967BCE5-F2D2-425A-9016-DF3AE6B6BE0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Service", "01-Service", "{B60CF117-21C0-47D3-9ADF-0F6E75364A03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Domain", "02-Domain", "{88FD7756-D866-4ADA-B811-C33696D37315}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LOP.LojaOnline.Domain", "LOP.LojaOnline.Domain\LOP.LojaOnline.Domain.csproj", "{A89232F4-96EC-4E8D-9A72-96CF131630D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LOP.LojaOnline.Service", "LOP.LojaOnline.Service\LOP.LojaOnline.Service.csproj", "{FD930C8B-0E29-4A9F-BBBF-521494F6C55E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89232F4-96EC-4E8D-9A72-96CF131630D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89232F4-96EC-4E8D-9A72-96CF131630D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89232F4-96EC-4E8D-9A72-96CF131630D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89232F4-96EC-4E8D-9A72-96CF131630D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD930C8B-0E29-4A9F-BBBF-521494F6C55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD930C8B-0E29-4A9F-BBBF-521494F6C55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD930C8B-0E29-4A9F-BBBF-521494F6C55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD930C8B-0E29-4A9F-BBBF-521494F6C55E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B60CF117-21C0-47D3-9ADF-0F6E75364A03} = {1967BCE5-F2D2-425A-9016-DF3AE6B6BE0E}
+		{88FD7756-D866-4ADA-B811-C33696D37315} = {1967BCE5-F2D2-425A-9016-DF3AE6B6BE0E}
+		{A89232F4-96EC-4E8D-9A72-96CF131630D8} = {88FD7756-D866-4ADA-B811-C33696D37315}
+		{FD930C8B-0E29-4A9F-BBBF-521494F6C55E} = {B60CF117-21C0-47D3-9ADF-0F6E75364A03}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E05A3FB6-05B4-447B-82BC-046AE76C0CB7}
+	EndGlobalSection
+EndGlobal

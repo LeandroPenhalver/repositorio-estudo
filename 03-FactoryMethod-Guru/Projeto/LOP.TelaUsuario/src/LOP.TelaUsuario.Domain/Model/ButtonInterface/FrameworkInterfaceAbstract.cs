@@ -8,6 +8,6 @@ namespace LOP.TelaUsuario.Domain.Model.ButtonInterface
 {
     public abstract class FrameworkInterfaceAbstract
     {
-        public abstract InterfaceButton CreateButton(InterfaceType type)
+        public abstract InterfaceButton CreateButton(InterfaceType type);
     }
 }

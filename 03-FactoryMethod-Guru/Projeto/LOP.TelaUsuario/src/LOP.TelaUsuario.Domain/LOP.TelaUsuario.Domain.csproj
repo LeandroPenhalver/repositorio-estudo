@@ -6,9 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Model\ButtonInterface\FrameworkConcrete\" />
-    <Folder Include="Model\ButtonInterface\ButtonProduct\" />
-  </ItemGroup>
-
 </Project>

@@ -19,6 +19,7 @@ namespace LOP.Eventos.IO.Domain.Core.Models
         public ValidationResult ValidationResult { get; protected set; }
         protected abstract bool Validar();
 
+
         public override bool Equals(object? obj)
         {
             var compareTo = obj as Entity<T>;

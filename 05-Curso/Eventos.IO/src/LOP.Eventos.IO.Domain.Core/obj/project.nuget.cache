@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pAOHask/sBiaFsgdRZMJ3IQXJOGev2gUv+8lbsZrDoHgW8fSdY7E+JtJ2JlZVrevgKTgNU6brDfJ3nKn49tDoQ==",
+  "dgSpecHash": "rv9drV2NX+qrpqbQen3OAisMxcTRlm4syEJOfZMY1YxYkaGmmLaLZ+KP4x27pMdO+iLnwJhMncArbAomzG/Cww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\05-Curso\\Eventos.IO\\src\\LOP.Eventos.IO.Domain.Core\\LOP.Eventos.IO.Domain.Core.csproj",
+  "projectFilePath": "C:\\Projetos\\repositorio-estudo\\05-Curso\\Eventos.IO\\src\\LOP.Eventos.IO.Domain.Core\\LOP.Eventos.IO.Domain.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
   ],

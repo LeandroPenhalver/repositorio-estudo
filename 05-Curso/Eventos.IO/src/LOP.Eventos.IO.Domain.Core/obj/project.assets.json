@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\05-Curso\\Eventos.IO\\src\\LOP.Eventos.IO.Domain.Core\\LOP.Eventos.IO.Domain.Core.csproj",
+      "projectUniqueName": "C:\\Projetos\\repositorio-estudo\\05-Curso\\Eventos.IO\\src\\LOP.Eventos.IO.Domain.Core\\LOP.Eventos.IO.Domain.Core.csproj",
       "projectName": "LOP.Eventos.IO.Domain.Core",
-      "projectPath": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\05-Curso\\Eventos.IO\\src\\LOP.Eventos.IO.Domain.Core\\LOP.Eventos.IO.Domain.Core.csproj",
+      "projectPath": "C:\\Projetos\\repositorio-estudo\\05-Curso\\Eventos.IO\\src\\LOP.Eventos.IO.Domain.Core\\LOP.Eventos.IO.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\OneDrive\\Desktop\\repositorio-estudo\\05-Curso\\Eventos.IO\\src\\LOP.Eventos.IO.Domain.Core\\obj\\",
+      "outputPath": "C:\\Projetos\\repositorio-estudo\\05-Curso\\Eventos.IO\\src\\LOP.Eventos.IO.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

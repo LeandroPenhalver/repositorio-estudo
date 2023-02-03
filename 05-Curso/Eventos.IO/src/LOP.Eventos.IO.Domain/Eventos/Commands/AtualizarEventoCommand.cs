@@ -22,6 +22,8 @@ namespace LOP.Eventos.IO.Domain.Eventos.Commands
         {
             Id = id;
             Nome = nome;
+            DescricaoCurta = descricaoCurta;
+            DescricaoLonga = descricaoLonga;
             DataInicio = dataInicio;
             DataFim = dataFim;
             Gratuito = gratuito;

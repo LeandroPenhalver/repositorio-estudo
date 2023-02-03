@@ -9,14 +9,14 @@ namespace LOP.Eventos.IO.Domain.Core.Commands
 {
     public class CommandResponse
     {
-        public static CommandResponse Ok = new CommandResponse(true);
-        public static CommandResponse Fail = new CommandResponse(false);
+        public static CommandResponse Ok = new CommandResponse { Success = true};
+        public static CommandResponse Fail = new CommandResponse { Success = false };
 
-        public CommandResponse(bool successs = false)
+        public CommandResponse(bool success = false)
         {
-            Successs = successs;
+            Success = success;
         }
 
-        public bool Successs { get; set; }
+        public bool Success { get; private set; }
     }
 }

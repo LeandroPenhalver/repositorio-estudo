@@ -41,11 +41,52 @@ namespace LOP.Eventos.IO.Domain.Eventos
         public decimal Valor { get; private set; }
         public bool Online { get; private set; }
         public string NomeEmpresa { get; private set; }
-        public Categoria Categoria { get; private set; }
         public ICollection<Tags> Tags { get; private set; }
-        public Endereco Endereco { get; private set; }
-        public Organizador Organizador { get; private set; }
+        public Guid? CategoriaId { get; set; }
+        public Guid? EnderecoId { get; set; }
+        public Guid OrganizadorId { get; set; }
 
+        // EF propriedades de navegação
+        public virtual Categoria Categoria { get; private set; }
+        public virtual Endereco Endereco { get; private set; }
+        public virtual Organizador Organizador { get; private set; }
+
+        public void AtribuirEndereco(Endereco endereco)
+        {
+            if (Online) return;
+
+            if (!endereco.ValidationResult.IsValid)
+            {
+                foreach (var error in endereco.ValidationResult.Errors)
+                {
+                    ValidationResult.Errors.Add(error);
+
+                    return;
+                }
+            }
+
+            Endereco = endereco;
+        }
+
+        public void AtribuirCategoria(Categoria categoria)
+        {
+            if(!categoria.ValidationResult.IsValid)
+            {
+                foreach (var error in categoria.ValidationResult.Errors)
+                {
+                    ValidationResult.Errors.Add(error);
+                }
+
+                return;
+            }
+
+            Categoria = categoria;
+        }
+
+        public void ExcluirEvento()
+        {
+            // TODO: 
+        }
 
         #region Validações
         /// <summary>
@@ -53,7 +94,7 @@ namespace LOP.Eventos.IO.Domain.Eventos
         /// quando o valor for falso, ou seja, temos a regra .NotEmpty para o campo nome, só
         /// será apresentado a mensagem se essa condição for false.
         /// </summary>
-        protected override bool Validar()
+        protected override void Validar()
         {
             ValidarNome();
             ValidarValor();
@@ -62,8 +103,6 @@ namespace LOP.Eventos.IO.Domain.Eventos
             ValidarNomeEmpresa();
 
             ValidationResult = Validate(this);
-
-            return ValidationResult.IsValid;
         }
 
         private void ValidarNome()
@@ -127,7 +166,7 @@ namespace LOP.Eventos.IO.Domain.Eventos
 
         public static class EventoFactory
         {
-            public static Evento NovoEventoCompleto(Guid id, string nome, string descricaoCurta, string descricaoLonga, DateTime dataInicio, DateTime dataFim, bool gratuito, decimal valor, bool online, string nomeEmpresa, Guid? organizadorId)
+            public static Evento NovoEventoCompleto(Guid id, string nome, string descricaoCurta, string descricaoLonga, DateTime dataInicio, DateTime dataFim, bool gratuito, decimal valor, bool online, string nomeEmpresa, Guid? organizadorId, Endereco endereco, Categoria categoria)
             {
                 var evento = new Evento()
                 {
@@ -140,13 +179,18 @@ namespace LOP.Eventos.IO.Domain.Eventos
                     Gratuito = gratuito,
                     Valor = valor,
                     Online = online,
-                    NomeEmpresa = nomeEmpresa
+                    NomeEmpresa = nomeEmpresa,
+                    Endereco = endereco,
+                    Categoria = categoria
                 };
 
                 evento.Validar();
 
                 if (organizadorId != null)
                     evento.Organizador = new Organizador(organizadorId.Value);
+
+                if (evento.Online)
+                    evento.Endereco = null;
 
                 return evento;
             }

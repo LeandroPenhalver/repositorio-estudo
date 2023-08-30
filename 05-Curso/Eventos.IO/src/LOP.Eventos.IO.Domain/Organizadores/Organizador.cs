@@ -9,7 +9,7 @@ namespace LOP.Eventos.IO.Domain.Organizadores
             Id = id;
         }
 
-        protected override bool Validar()
+        public override bool EhValido()
         {
             throw new NotImplementedException();
         }

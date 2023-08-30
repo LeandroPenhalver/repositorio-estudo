@@ -17,7 +17,7 @@ namespace LOP.Eventos.IO.Domain.Core.Models
 
         public Guid Id { get; protected set; }
         public ValidationResult ValidationResult { get; protected set; }
-        protected abstract void Validar();
+        public abstract bool EhValido();
 
 
         public override bool Equals(object? obj)

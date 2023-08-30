@@ -27,10 +27,7 @@ namespace LOP.Eventos.IO.Domain.Eventos
             Validar();
         }
 
-        private Evento()
-        {
-
-        }
+        private Evento() { }
 
         public string Nome { get; private set; }
         public string DescricaoCurta { get; private set; }
@@ -41,36 +38,28 @@ namespace LOP.Eventos.IO.Domain.Eventos
         public decimal Valor { get; private set; }
         public bool Online { get; private set; }
         public string NomeEmpresa { get; private set; }
+        public bool Excluido { get; private set; }
         public ICollection<Tags> Tags { get; private set; }
-        public Guid? CategoriaId { get; set; }
-        public Guid? EnderecoId { get; set; }
-        public Guid OrganizadorId { get; set; }
+        public Guid? CategoriaId { get; private set; }
+        public Guid? EnderecoId { get; private set; }
+        public Guid OrganizadorId { get; private set; }
 
         // EF propriedades de navegação
+        // Com o virtual ajuda na performance.
         public virtual Categoria Categoria { get; private set; }
         public virtual Endereco Endereco { get; private set; }
         public virtual Organizador Organizador { get; private set; }
 
         public void AtribuirEndereco(Endereco endereco)
         {
-            if (Online) return;
-
-            if (!endereco.ValidationResult.IsValid)
-            {
-                foreach (var error in endereco.ValidationResult.Errors)
-                {
-                    ValidationResult.Errors.Add(error);
-
-                    return;
-                }
-            }
+            if (!endereco.ValidationResult.IsValid) return;
 
             Endereco = endereco;
         }
 
         public void AtribuirCategoria(Categoria categoria)
         {
-            if(!categoria.ValidationResult.IsValid)
+            if (!categoria.ValidationResult.IsValid)
             {
                 foreach (var error in categoria.ValidationResult.Errors)
                 {
@@ -88,21 +77,31 @@ namespace LOP.Eventos.IO.Domain.Eventos
             // TODO: 
         }
 
+        public override bool EhValido()
+        {
+            Validar();
+            return ValidationResult.IsValid;
+        }
+
         #region Validações
         /// <summary>
         /// A condição para o Fluent Validation (para gerar a mensagem de erro) só é apresentado
         /// quando o valor for falso, ou seja, temos a regra .NotEmpty para o campo nome, só
         /// será apresentado a mensagem se essa condição for false.
         /// </summary>
-        protected override void Validar()
+        private void Validar()
         {
             ValidarNome();
             ValidarValor();
             ValidarData();
             ValidarEndereco();
             ValidarNomeEmpresa();
-
             ValidationResult = Validate(this);
+
+            // Validações adicionais
+            // Essas validações precisam ser depois da validação da entidade evento (ValidationResult = Validate(this);) 
+            // pois o validate(this) vai sobreescrever as validações adicionar caso esteja antes disso.
+            ValidarEndereco();
         }
 
         private void ValidarNome()
@@ -144,13 +143,13 @@ namespace LOP.Eventos.IO.Domain.Eventos
 
         private void ValidarEndereco()
         {
-            RuleFor(c => c.Endereco)
-                .NotNull()
-                .When(c => !c.Online)
-                .WithMessage("O evento deve possuir um endereço físico quando não for um evento online")
-                .Null()
-                .When(c => c.Online)
-                .WithMessage("Quando o evento for online não deve possuir um endereço físico");
+            if (Online) return;
+            if (Endereco.ValidationResult.IsValid) return;
+
+            foreach (var erro in Endereco.ValidationResult.Errors)
+            {
+                ValidationResult.Errors.Add(erro);
+            }
         }
 
         private void ValidarNomeEmpresa()
@@ -166,7 +165,7 @@ namespace LOP.Eventos.IO.Domain.Eventos
 
         public static class EventoFactory
         {
-            public static Evento NovoEventoCompleto(Guid id, string nome, string descricaoCurta, string descricaoLonga, DateTime dataInicio, DateTime dataFim, bool gratuito, decimal valor, bool online, string nomeEmpresa, Guid? organizadorId, Endereco endereco, Categoria categoria)
+            public static Evento NovoEventoCompleto(Guid id, string nome, string descricaoCurta, string descricaoLonga, DateTime dataInicio, DateTime dataFim, bool gratuito, decimal valor, bool online, string nomeEmpresa, Guid? organizadorId, Endereco endereco, Guid categoriaId)
             {
                 var evento = new Evento()
                 {
@@ -181,7 +180,7 @@ namespace LOP.Eventos.IO.Domain.Eventos
                     Online = online,
                     NomeEmpresa = nomeEmpresa,
                     Endereco = endereco,
-                    Categoria = categoria
+                    CategoriaId = categoriaId
                 };
 
                 evento.Validar();

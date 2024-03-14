@@ -1,0 +1,12 @@
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Domain\bin\Debug\net8.0\LOP.PagamentoStrategy.Domain.deps.json
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Domain\bin\Debug\net8.0\LOP.PagamentoStrategy.Domain.dll
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Domain\bin\Debug\net8.0\LOP.PagamentoStrategy.Domain.pdb
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Domain\obj\Debug\net8.0\LOP.PagamentoStrategy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Domain\obj\Debug\net8.0\LOP.PagamentoStrategy.Domain.AssemblyInfoInputs.cache
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Domain\obj\Debug\net8.0\LOP.PagamentoStrategy.Domain.AssemblyInfo.cs
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Domain\obj\Debug\net8.0\LOP.PagamentoStrategy.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Domain\obj\Debug\net8.0\LOP.PagamentoStrategy.Domain.sourcelink.json
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Domain\obj\Debug\net8.0\LOP.PagamentoStrategy.Domain.dll
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Domain\obj\Debug\net8.0\refint\LOP.PagamentoStrategy.Domain.dll
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Domain\obj\Debug\net8.0\LOP.PagamentoStrategy.Domain.pdb
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Domain\obj\Debug\net8.0\ref\LOP.PagamentoStrategy.Domain.dll

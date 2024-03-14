@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LOP.PagamentoStrategy.Domain/1.0.0": {
+        "runtime": {
+          "LOP.PagamentoStrategy.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LOP.PagamentoStrategy.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

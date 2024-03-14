@@ -1,0 +1,16 @@
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\bin\Debug\net8.0\LOP.PagamentoStrategy.Service.deps.json
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\bin\Debug\net8.0\LOP.PagamentoStrategy.Service.dll
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\bin\Debug\net8.0\LOP.PagamentoStrategy.Service.pdb
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\bin\Debug\net8.0\LOP.PagamentoStrategy.Domain.dll
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\bin\Debug\net8.0\LOP.PagamentoStrategy.Domain.pdb
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\obj\Debug\net8.0\LOP.PagamentoStrategy.Service.csproj.AssemblyReference.cache
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\obj\Debug\net8.0\LOP.PagamentoStrategy.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\obj\Debug\net8.0\LOP.PagamentoStrategy.Service.AssemblyInfoInputs.cache
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\obj\Debug\net8.0\LOP.PagamentoStrategy.Service.AssemblyInfo.cs
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\obj\Debug\net8.0\LOP.PagamentoStrategy.Service.csproj.CoreCompileInputs.cache
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\obj\Debug\net8.0\LOP.PagamentoStrategy.Service.sourcelink.json
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\obj\Debug\net8.0\LOP.Paga.ED9BEA0C.Up2Date
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\obj\Debug\net8.0\LOP.PagamentoStrategy.Service.dll
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\obj\Debug\net8.0\refint\LOP.PagamentoStrategy.Service.dll
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\obj\Debug\net8.0\LOP.PagamentoStrategy.Service.pdb
+C:\Projetos\repositorio-estudo\06-Strategy\LOP.PagamentoStrategy\LOP.PagamentoStrategy.Service\obj\Debug\net8.0\ref\LOP.PagamentoStrategy.Service.dll

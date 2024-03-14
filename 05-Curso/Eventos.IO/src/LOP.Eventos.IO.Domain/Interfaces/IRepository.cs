@@ -10,12 +10,12 @@ namespace LOP.Eventos.IO.Domain.Interfaces
 {
     public interface IRepository<TEntity> : IDisposable where TEntity : Entity<TEntity>
     {
-        void Add(TEntity entity);
-        void Update(TEntity entity);
-        void Remove(Guid id);
-        TEntity GetById(Guid id);
-        IEnumerable<TEntity> GetAll();
-        IEnumerable<TEntity> Find(Expression<Func<TEntity, bool>> predicate);
+        void Adicionar(TEntity entity);
+        void Atualizar(TEntity entity);
+        void Remover(Guid id);
+        TEntity ObterPorId(Guid id);
+        IEnumerable<TEntity> ObterTodos();
+        IEnumerable<TEntity> Buscar(Expression<Func<TEntity, bool>> predicate);
         int SaveChanges();
     }
 }

@@ -18,7 +18,10 @@ namespace LOP.Eventos.IO.Domain.Eventos.Commands
             bool gratuito,
             decimal valor,
             bool online,
-            string nomeEmpresa)
+            string nomeEmpresa,
+            Guid organizadorId,
+            Endereco endereco,
+            Guid categoriaId)
         {
             Id = id;
             Nome = nome;
@@ -30,6 +33,9 @@ namespace LOP.Eventos.IO.Domain.Eventos.Commands
             Valor = valor;
             Online = online;
             NomeEmpresa = nomeEmpresa;
+            OrganizadorId = organizadorId;
+            Endereco = endereco;
+            CategoriaId = categoriaId;
         }
     }
 }

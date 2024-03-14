@@ -1,12 +1,16 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "eO84tlySNBU67lhf+yzJHXKtykiEXvHoHzDjWsX1jBhjo0CX5H5vPrOuBPtII/r2j3hp+QX2rxcd7muNrZwVug==",
+=======
   "dgSpecHash": "Vrj7tgfRRIX9sMNSp0aoTnYfY0EwYk88hFipjT3LA8Posm20aDBb7grT1Jfz5ojU7vvBPh6OrzRJo8j1qFtv2Q==",
+>>>>>>> 0e6eac6974b3afd1d1e8f0005e830740b99c327c
   "success": true,
   "projectFilePath": "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.GuinchoSocorro.Domain\\LOP.GuinchoSocorro.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\leand\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\leand\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

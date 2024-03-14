@@ -36,7 +36,7 @@ namespace LOP.Eventos.IO.Domain.Eventos.Commands
 
         public void Handle(RegistrarEventoCommand message)
         {
-            var evento = new Evento(message.Nome, message.DataInicio, message.DataFim, message.Gratuito, message.Valor, message.Online, message.NomeEmpresa);
+            var evento = Evento.EventoFactory.NovoEventoCompleto(message.Id, message.Nome, message.DescricaoCurta, message.DescricaoLonga, message.DataInicio, message.DataFim, message.Gratuito, message.Valor, message.Online, message.NomeEmpresa, message.OrganizadorId, message.Endereco, message.CategoriaId);
 
             // Classe se auto validando.
             if (!EventoValido(evento)) return;
@@ -45,7 +45,7 @@ namespace LOP.Eventos.IO.Domain.Eventos.Commands
             // Validações de negócio para saber se irá persistir os dados no banco.
             //   - Aquele organizador pode geristrar aquele evento
 
-            _repository.Add(evento);
+            _repository.Adicionar(evento);
 
             if (Commit())
             {
@@ -58,7 +58,7 @@ namespace LOP.Eventos.IO.Domain.Eventos.Commands
         {
             if (!EventoExistente(message.Id, message.MessageType)) return;
 
-            _repository.Remove(message.Id);
+            _repository.Remover(message.Id);
 
             if (Commit())
             {
@@ -68,13 +68,17 @@ namespace LOP.Eventos.IO.Domain.Eventos.Commands
 
         public void Handle(AtualizarEventoCommand message)
         {
+            var eventoAtual = _repository.ObterPorId(message.Id);
+
             if (!EventoExistente(message.Id, message.MessageType)) return;
 
-            var evento = Evento.EventoFactory.NovoEventoCompleto(message.Id, message.Nome, message.DescricaoCurta, message.DescricaoLonga, message.DataInicio, message.DataFim, message.Gratuito, message.Valor, message.Online, message.NomeEmpresa, null);
+            // TODO: VALIDAR SE O ENDEREÇO PERTENCE  A PESSOA QUE ESTÁ EDITANDO.
+
+            var evento = Evento.EventoFactory.NovoEventoCompleto(message.Id, message.Nome, message.DescricaoCurta, message.DescricaoLonga, message.DataInicio, message.DataFim, message.Gratuito, message.Valor, message.Online, message.NomeEmpresa, message.OrganizadorId, eventoAtual.Endereco, message.CategoriaId);
 
             if (!EventoValido(evento)) return;
 
-            _repository.Update(evento);
+            _repository.Atualizar(evento);
 
             if (Commit())
             {
@@ -85,8 +89,7 @@ namespace LOP.Eventos.IO.Domain.Eventos.Commands
 
         private bool EventoValido(Evento evento)
         {
-            if (evento.ValidationResult.IsValid)
-                return true;
+            if (evento.EhValido()) return true;
 
             NotificarValidacoesErro(evento.ValidationResult);
             return false;
@@ -94,7 +97,7 @@ namespace LOP.Eventos.IO.Domain.Eventos.Commands
 
         private bool EventoExistente(Guid id, string messageType)
         {
-            var evento = _repository.GetById(id);
+            var evento = _repository.ObterPorId(id);
 
             if (evento is not null) return true;
 

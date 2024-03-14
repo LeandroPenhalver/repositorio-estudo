@@ -31,11 +31,9 @@ namespace LOP.Eventos.IO.Domain.Eventos
             Estado = estado;
             EventoId = eventoId;
             Cidade = cidade;
-            
-            Validar();
         }
 
-        protected override void Validar()
+        public override bool EhValido()
         {
             ValidarLogradouro();
             ValidarNumero();
@@ -45,6 +43,8 @@ namespace LOP.Eventos.IO.Domain.Eventos
             ValidarEstado();
 
             ValidationResult = Validate(this);
+
+            return ValidationResult.IsValid;
         }
 
         #region Validações

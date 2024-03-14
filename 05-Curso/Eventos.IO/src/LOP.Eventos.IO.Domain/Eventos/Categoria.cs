@@ -9,17 +9,15 @@ namespace LOP.Eventos.IO.Domain.Eventos
         public Categoria(Guid id)
         {
             Id = id;
-
-            Validar();
         }
         // EF Propriedade de navegação
-        public virtual ICollection<EventArgs> Events { get; private set; }
+        public virtual ICollection<Evento> Eventos { get; private set; }
 
         // Construtor para o EF
         protected Categoria(){}
-        protected override void Validar()
+        public override bool EhValido()
         {
-            ValidationResult = Validate(this);
+            return true;
         }
     }
 }

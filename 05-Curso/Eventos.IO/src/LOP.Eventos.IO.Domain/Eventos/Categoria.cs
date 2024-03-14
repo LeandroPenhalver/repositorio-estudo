@@ -11,7 +11,7 @@ namespace LOP.Eventos.IO.Domain.Eventos
             Id = id;
         }
         // EF Propriedade de navegação
-        public virtual ICollection<EventArgs> Eventos { get; private set; }
+        public virtual ICollection<Evento> Eventos { get; private set; }
 
         // Construtor para o EF
         protected Categoria(){}

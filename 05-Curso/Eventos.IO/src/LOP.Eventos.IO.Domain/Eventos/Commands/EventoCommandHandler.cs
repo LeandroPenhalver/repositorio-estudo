@@ -72,6 +72,8 @@ namespace LOP.Eventos.IO.Domain.Eventos.Commands
 
             if (!EventoExistente(message.Id, message.MessageType)) return;
 
+            // TODO: VALIDAR SE O ENDEREÇO PERTENCE  A PESSOA QUE ESTÁ EDITANDO.
+
             var evento = Evento.EventoFactory.NovoEventoCompleto(message.Id, message.Nome, message.DescricaoCurta, message.DescricaoLonga, message.DataInicio, message.DataFim, message.Gratuito, message.Valor, message.Online, message.NomeEmpresa, message.OrganizadorId, eventoAtual.Endereco, message.CategoriaId);
 
             if (!EventoValido(evento)) return;

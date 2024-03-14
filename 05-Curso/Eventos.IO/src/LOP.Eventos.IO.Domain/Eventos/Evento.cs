@@ -74,7 +74,9 @@ namespace LOP.Eventos.IO.Domain.Eventos
 
         public void ExcluirEvento()
         {
-            // TODO: 
+            // TODO: deve validar alguma regra?
+
+            Excluido = true;
         }
 
         public override bool EhValido()
@@ -185,8 +187,8 @@ namespace LOP.Eventos.IO.Domain.Eventos
 
                 evento.Validar();
 
-                if (organizadorId != null)
-                    evento.Organizador = new Organizador(organizadorId.Value);
+                if (organizadorId.HasValue)
+                    evento.OrganizadorId = organizadorId.Value;
 
                 if (evento.Online)
                     evento.Endereco = null;

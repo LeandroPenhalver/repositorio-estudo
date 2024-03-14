@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ZkOo8zt8hyZc/C67xCtg8GvlFhZjuhCSaSfb5tDJHmONllO5QG0sKW4diIdYGoWjCHLpB6Bxt6jqhWJyWeB6DQ==",
+=======
+  "dgSpecHash": "cCUUcAFEMZD43jt6KxTH/2GEEP428EVhDm93oHZ2qJc9EpS+LQuYhc4dXbfbi3V2T9zvhdpH1uEMmVIG9B/Mcg==",
+>>>>>>> 0e6eac6974b3afd1d1e8f0005e830740b99c327c
   "success": true,
   "projectFilePath": "C:\\Projetos\\repositorio-estudo\\01-AbstractFactory\\Projeto\\src\\LOP.SocorroGuincho\\LOP.SocorroGuincho.Service\\LOP.SocorroGuincho.Service.csproj",
   "expectedPackageFiles": [
